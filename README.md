@@ -19,5 +19,5 @@ Nuestra base de datos constó de el registro de transacciones a lo largo de 6 me
 
 3. Dos productos que coinciden en las 3 sucursales dentro de los 5 tipos de productos con la menor cantidad de transacciones son "Green Beans" y "House blend Beans", ambos se encuentran dentro de nuestra categoria **Coffe Beans**, la cual apesar de constar de 6 tipos de producto es nuestra *cuarta categoria con menor cantidad de transacciones.*
 
-    <img src="https://github.com/user-attachments/assets/a4c011d3-14b6-413b-ad06-281b4da785c8" width="400" height="250">   
+    <img src="https://github.com/user-attachments/assets/a4c011d3-14b6-413b-ad06-281b4da785c8" width="500" height="300">   
 
