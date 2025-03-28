@@ -5,7 +5,7 @@ Este análisis tiene como objetivo transformar y visualizar los datos de manera 
 
 ## Análisis
 
-Nuestra base de datos constó de el registro de transacciones a lo largo de 6 meses por lo que se optó por crear tablas dinámicas para transformar la información relevante en gráficos que nos ayudarán a representar de mejor manera nuestros resultados. La primera tabla dinamica consta en el apartado de las columnas el mes y su ingreso correspondiente de dicho mes. Posteriormente se realizaron dos tablas dinámicas para conocer la cantidad de transacciones por categorias de producto, los ingreso y cantidad de transacciones por tipo de producto.
+Nuestra información constó de el registro de transacciones a lo largo de 6 meses por lo que se optó por crear tablas dinámicas para transformar la información relevante en gráficos que nos ayudarán a representar de mejor manera nuestros resultados. La primera tabla dinamica consta en el apartado de las columnas el mes y su ingreso correspondiente de dicho mes. Posteriormente se realizaron dos tablas dinámicas para conocer la cantidad de transacciones por categorias de producto, los ingreso y cantidad de transacciones por tipo de producto.
 ![image](https://github.com/user-attachments/assets/1ce69ab2-91b5-4cea-968f-264c21ba3d5f)
 
 
