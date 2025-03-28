@@ -11,6 +11,13 @@ Nuestra base de datos constó de el registro de transacciones a lo largo de 6 me
 
 
 ## Resultados
-Gracias a la primer tabla dinamica se realizó un grafico en la que se puede apreciar una tendencia alcista en los ingresos conforme transcurrian los meses, con excepcion del segundo mes que estuvo solamente un 7% aprox por debajo de su mes que le antecede.
-![ingresos por mes](https://github.com/user-attachments/assets/a17d2692-10f1-4f58-8bb4-3bb73f65ec53)
+1. Gracias a la primer tabla dinamica se realizó un grafico en la que se puede apreciar una tendencia **alcista** en los ingresos conforme transcurrian los meses, con excepcion del segundo mes que estuvo solamente un 7% aprox por debajo de su mes que le antecede.
+
+    <img src="https://github.com/user-attachments/assets/36ac8907-279a-4844-8f2f-bc91082820f1" width="500" height="300">
+
+2. De este primer gráfico se descubrió de igual manera gracias a una segmentación de datos que *las tres sucursales tienen un comportamiento practicamente identico* por lo que se podría realizar unicamente un tipo de campaña publicitaria para las 3 sucursales.
+
+3. Dos productos que coinciden en las 3 sucursales dentro de los 5 tipos de productos con la menor cantidad de transacciones son "Green Beans" y "House blend Beans", ambos se encuentran dentro de nuestra categoria **Coffe Beans**, la cual apesar de constar de 6 tipos de producto es nuestra *cuarta categoria con menor cantidad de transacciones.*
+
+    <img src="https://github.com/user-attachments/assets/a4c011d3-14b6-413b-ad06-281b4da785c8" width="400" height="250">   
 
